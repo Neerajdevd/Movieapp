@@ -85,14 +85,7 @@ class TopRatedMovies extends StatelessWidget {
                                                 ['backdrop_path']),
                                     fit: BoxFit.cover)),
                           ),
-                          // Container(
-                          //   child: Mdifidtxt(
-                          //       text: topratedmovies[index]['title'] != null
-                          //           ? topratedmovies[index]['title']
-                          //           : 'Loading',
-                          //       color: Colors.white,
-                          //       size: 15),
-                          // ),
+                         
                         ],
                       ),
                     ),
